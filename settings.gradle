@@ -1,0 +1,3 @@
+include ':CalcService'
+include ':app'
+rootProject.name = "MyCalcApp"
